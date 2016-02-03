@@ -1,5 +1,5 @@
 # Q_word-Editor
-This is the backup repository a previous undergraduate course Project.
+This is the backup repository a previous undergraduate Java Programming Course Project.
 
 # 引言
 ## 编写目的
